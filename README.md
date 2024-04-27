@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Salesforce testing**
 
-- 🌱 I’m currently learning **Selenium, API testing and**
+- 🌱 I’m currently learning **Selenium, API testing**
 
 - 🤝 I’m looking for help with **API testing**
 
